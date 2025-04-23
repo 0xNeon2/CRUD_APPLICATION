@@ -33,7 +33,7 @@ Welcome to the **User Management CRUD App** — a raw crud application for manag
 
 ## ✍️ Author
 
-Made with 💻 by [Md Nayeem Ahmed]((https://github.com/0xNeon2/))  
+Made with 💻 by [Md Nayeem Ahmed](https://github.com/0xNeon2/)  
 Feel free to connect or fork the repo if you vibe with it.
 
 
