@@ -25,7 +25,15 @@ Welcome to the **User Management CRUD App** — a raw crud application for manag
 
 ## 📸 UI Preview
 
-![Index page](./screenshots/index.jpeg)
-![Add user page](./screenshots/adduser.jpeg)
-![edit user page](./screenshots/edituser.jpeg)
+![Index page](./screenshot/index.jpeg)
+![Add user page](./screenshot/adduser.jpeg)
+![edit user page](./screenshot/edituser.jpeg)
+
+---
+
+## ✍️ Author
+
+Made with 💻 by [Md Nayeem Ahmed]((https://github.com/0xNeon2/))  
+Feel free to connect or fork the repo if you vibe with it.
+
 
