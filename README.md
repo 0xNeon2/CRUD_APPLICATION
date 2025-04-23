@@ -25,5 +25,7 @@ Welcome to the **User Management CRUD App** — a raw crud application for manag
 
 ## 📸 UI Preview
 
-![Dashboard UI](./screenshots/dashboard-ui.png)
+![Index page](./screenshots/index.jpeg)
+![Add user page](./screenshots/adduser.jpeg)
+![edit user page](./screenshots/edituser.jpeg)
 
